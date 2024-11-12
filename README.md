@@ -7,6 +7,6 @@ Repo for learning nRF Connect SDK
 
 
 ## Authors
-
+- [@Nordic Semiconductor](https://academy.nordicsemi.com/)
 - [@BERTIN Morgan](https://www.github.com/BERTINMorgan)
 
