@@ -1,0 +1,14 @@
+{
+  "board": "decawave_dwm1001_dev",
+  "boardRevision": "",
+  "boardDir": "c:/ncs/v2.5.1/zephyr/boards/arm/decawave_dwm1001_dev",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

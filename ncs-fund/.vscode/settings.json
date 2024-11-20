@@ -1,0 +1,12 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\l1_e2",
+        "${workspaceFolder}\\v2.x.x\\lesson2\\fund_less2_exer1",
+        "${workspaceFolder}\\v2.x.x\\lesson2\\fund_less2_exer2",
+        "${workspaceFolder}\\v2.x.x\\lesson3\\l3_e1",
+        "${workspaceFolder}\\v2.x.x\\lesson3\\l3_e2"
+    ],
+    "files.associations": {
+        "myfunction.h": "c"
+    }
+}
